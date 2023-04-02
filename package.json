@@ -1,0 +1,25 @@
+{
+  "name": "webterminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arhantalwar/Ahhh-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arhantalwar/Ahhh-/issues"
+  },
+  "homepage": "https://github.com/arhantalwar/Ahhh-#readme",
+  "dependencies": {
+    "node-pty": "^0.10.1",
+    "socket.io": "^4.6.1",
+    "xterm": "^5.1.0"
+  }
+}
